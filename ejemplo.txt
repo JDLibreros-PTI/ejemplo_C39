@@ -4,4 +4,5 @@ Otra linea creada en la rama de desarrollo
 Una linea mas
 otra mas
 Una linea mas
-Esta es mi lineagit
+Esta es mi linea git
+areglo
