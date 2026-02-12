@@ -6,3 +6,4 @@ otra mas
 Una linea mas
 Esta es mi linea git
 areglo
+Por fin entendí como cargar las modificaciones
